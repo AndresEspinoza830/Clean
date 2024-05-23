@@ -15,3 +15,4 @@ C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Infrastucture\obj\Debug\net
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Infrastucture\obj\Debug\net8.0\refint\Clean.Infrastucture.dll
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Infrastucture\obj\Debug\net8.0\Clean.Infrastucture.pdb
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Infrastucture\obj\Debug\net8.0\ref\Clean.Infrastucture.dll
+C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Infrastucture\obj\Debug\net8.0\Clean.Infrastucture.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Application\obj\Debug\net8.
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Application\obj\Debug\net8.0\refint\Clean.Application.dll
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Application\obj\Debug\net8.0\Clean.Application.pdb
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Application\obj\Debug\net8.0\ref\Clean.Application.dll
+C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Application\obj\Debug\net8.0\Clean.Application.sourcelink.json

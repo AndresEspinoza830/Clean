@@ -9,3 +9,4 @@ C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Domain\obj\Debug\net8.0\Cle
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Domain\obj\Debug\net8.0\refint\Clean.Domain.dll
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Domain\obj\Debug\net8.0\Clean.Domain.pdb
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Domain\obj\Debug\net8.0\ref\Clean.Domain.dll
+C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Domain\obj\Debug\net8.0\Clean.Domain.sourcelink.json

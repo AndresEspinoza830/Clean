@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "+Jg75L0iKVNVl02JT99ZDxD+N/N9ON6pHSCoApvGO1KMOj+JhTfm45fjEM1g3ZQt05a1ghoIwSifdO3MSjHN1Q==",
+  "dgSpecHash": "1RLXEeAql18A15wRTLe/PMTeh0lAB1ir0SUnp2FRYP9Vf0NvFHtSGdYB87OeoeS60WVarJMatMSFnMDH4bztKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Andres\\Documents\\PERSONAL\\Clean\\Clean\\Clean.Api\\Clean.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andres\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Andres\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\mediatr\\10.0.0\\mediatr.10.0.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\mediatr.contracts\\1.0.0\\mediatr.contracts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.0\\mediatr.extensions.microsoft.dependencyinjection.10.0.0.nupkg.sha512",
     "C:\\Users\\Andres\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Andres\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Andres\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",

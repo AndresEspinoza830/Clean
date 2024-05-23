@@ -74,3 +74,7 @@ C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Api\bin\Debug\net8.0\Clean.
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Api\bin\Debug\net8.0\Clean.Infrastucture.pdb
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Api\bin\Debug\net8.0\Clean.Application.pdb
 C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Api\bin\Debug\net8.0\Clean.Domain.pdb
+C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Api\obj\Debug\net8.0\Clean.Api.sourcelink.json
+C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Andres\Documents\PERSONAL\Clean\Clean\Clean.Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
