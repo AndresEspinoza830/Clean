@@ -19,5 +19,10 @@ namespace Clean.Infrastucture.Repository
         {
           return await _dbSet.ToListAsync();
         }
+
+        public void Create(T obj)
+        {
+             _dbSet.Add(obj);
+        }
     }
 }

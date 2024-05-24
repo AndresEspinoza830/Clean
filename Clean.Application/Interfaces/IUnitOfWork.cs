@@ -11,5 +11,8 @@ namespace Clean.Application.Interfaces
     {
         IGenericRepository<Person> Persons { get; }
 
+        IGenericRepository<Country> Country { get; }
+
+        Task<int> SaveChangesAsync(CancellationToken cancellationToken = default); 
     }
 }

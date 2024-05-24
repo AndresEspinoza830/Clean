@@ -15,5 +15,6 @@ namespace Clean.Infrastucture.Persistence
         }
 
         public DbSet<Person> Persons { get; set;}
+        public DbSet<Country> Country { get; set;}
     }
 }
